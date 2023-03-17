@@ -37,7 +37,7 @@ const IntroPage = (props) => {
             <div className="d-flex justify-content-center">
               <img
                 src={Logo}
-                className=" position-relative opacity-80"
+                className=" position-relative opacity-80 w-50 h-50"
                 alt="Introgif"
                 data-aos="zoom-in-up"
                 data-aos-duration="3000"
